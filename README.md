@@ -140,5 +140,5 @@ The brain never depends on a specific model.
 
 
 
-``
+Auto‑Swift Brain follows a deliberate, minimal structure:
 
