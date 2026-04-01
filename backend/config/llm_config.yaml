@@ -1,0 +1,12 @@
+# LLM configuration for Auto‑Swift Brain
+# Switch providers here without touching core logic.
+
+llm:
+  provider: openai
+  model: gpt-4o-mini
+
+# Environment variable names used for secrets
+secrets:
+  openai_api_key: OPENAI_API_KEY
+  gemini_api_key: GEMINI_API_KEY
+  openclaw_api_key: OPENCLAW_API_KEY
